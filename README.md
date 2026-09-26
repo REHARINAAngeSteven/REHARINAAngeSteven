@@ -69,7 +69,7 @@ Administration avancée Linux • Réseaux & TCP/IP • Sécurité des conteneur
 
 <picture>
   <source srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=REHARINAAngeSteven&layout=compact&theme=dark_github" media="(prefers-color-scheme: dark)" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=REHARINAAngeSteven&layout=compact&theme=light_github" alt="Top Langs" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=REHARINAAngeSteven&&layout=compact&langs_count=5&card_width=500&theme=light_github" alt="Top Langs" />
 </picture>
 
 <img src="https://raw.githubusercontent.com/REHARINAAngeSteven/REHARINAAngeSteven/output/github-contribution-grid-snake.svg" alt="Graphique des contributions GitHub"/>
